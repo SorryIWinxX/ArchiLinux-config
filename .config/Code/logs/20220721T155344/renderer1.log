@@ -1,0 +1,1 @@
+[2022-07-21 15:56:36.577] [renderer1] [error] [text file model] handleSaveError(22) - exit - resulted in a save error: Error: Unable to write file '/usr/share/volumeicon/gui/preferences.ui' (NoPermissions (FileSystemError): Error: EACCES: permission denied, open '/usr/share/volumeicon/gui/preferences.ui') file:///usr/share/volumeicon/gui/preferences.ui

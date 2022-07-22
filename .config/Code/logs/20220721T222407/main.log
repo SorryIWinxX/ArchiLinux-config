@@ -1,0 +1,6 @@
+[2022-07-21 22:24:07.538] [main] [info] update#setState idle
+[2022-07-21 22:24:09.009] [main] [info] Starting extension host with pid 29587 (fork() took 13 ms).
+[2022-07-21 22:24:37.549] [main] [info] update#setState checking for updates
+[2022-07-21 22:24:37.560] [main] [info] update#setState available for download
+[2022-07-21 22:28:27.610] [main] [info] update#setState idle
+[2022-07-21 22:38:37.450] [main] [info] Extension host with pid 29587 exited with code: null, signal: SIGTERM.

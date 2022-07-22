@@ -1,0 +1,5 @@
+2022/07/18-20:08:29.165 e79 Creating DB /home/h4ck4u/.config/discord/Local Storage/leveldb since it was missing.
+2022/07/18-20:08:29.170 e79 Reusing MANIFEST /home/h4ck4u/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2022/07/18-20:10:37.859 e88 Level-0 table #5: started
+2022/07/18-20:10:37.863 e88 Level-0 table #5: 490809 bytes OK
+2022/07/18-20:10:37.865 e88 Delete type=0 #3

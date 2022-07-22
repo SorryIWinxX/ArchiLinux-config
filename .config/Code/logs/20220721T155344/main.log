@@ -1,0 +1,5 @@
+[2022-07-21 15:53:44.807] [main] [info] update#setState idle
+[2022-07-21 15:53:45.872] [main] [info] Starting extension host with pid 19228 (fork() took 7 ms).
+[2022-07-21 15:54:14.819] [main] [info] update#setState checking for updates
+[2022-07-21 15:54:14.827] [main] [info] update#setState available for download
+[2022-07-21 15:56:42.288] [main] [info] Extension host with pid 19228 exited with code: 0, signal: null.

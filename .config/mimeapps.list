@@ -1,0 +1,14 @@
+[Default Applications]
+x-scheme-handler/http=xfce4-web-browser.desktop
+x-scheme-handler/https=xfce4-web-browser.desktop
+x-scheme-handler/gitkraken=GitKraken.desktop
+x-scheme-handler/notion=notion-app.desktop
+
+[Added Associations]
+x-scheme-handler/http=xfce4-web-browser.desktop;
+x-scheme-handler/https=xfce4-web-browser.desktop;
+application/zip=userapp-unzip-F76CP1.desktop;
+text/html=firefox-developer-edition.desktop;visual-studio-code.desktop;
+text/css=visual-studio-code.desktop;
+application/javascript=visual-studio-code.desktop;
+text/x-matlab=visual-studio-code.desktop;

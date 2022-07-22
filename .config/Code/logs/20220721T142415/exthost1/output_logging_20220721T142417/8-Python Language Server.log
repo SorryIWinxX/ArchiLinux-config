@@ -1,0 +1,33 @@
+[Info  - 2:24:19 PM] (1899) Pylance language server 2022.7.40 (pyright bd00e0d1) starting
+[Info  - 2:24:19 PM] (1899) Server root directory: /home/h4ck4u/.vscode/extensions/ms-python.vscode-pylance-2022.7.40/dist
+Notebook support: LSP
+[Info  - 2:24:19 PM] (1899) No pyproject.toml file found.
+[Info  - 2:24:19 PM] (1899) Setting pythonPath for service "<default>": "/bin/python"
+[Warn  - 2:24:19 PM] (1899) stubPath typings is not a valid directory.
+[Info  - 2:24:19 PM] (1899) Assuming Python version 3.10
+[Info  - 2:24:19 PM] (1899) Assuming Python platform Linux
+[Info  - 2:24:19 PM] (1899) Searching for source files
+[Info  - 2:24:19 PM] (1899) No source files found.
+[Info  - 2:24:19 PM] (1899) No pyproject.toml file found.
+[Info  - 2:24:19 PM] (1899) Setting pythonPath for service "<default>": "/bin/python"
+[Warn  - 2:24:19 PM] (1899) stubPath typings is not a valid directory.
+[Info  - 2:24:19 PM] (1899) Assuming Python version 3.10
+[Info  - 2:24:19 PM] (1899) Assuming Python platform Linux
+[Info  - 2:24:19 PM] (1899) Searching for source files
+[Info  - 2:24:19 PM] (1899) No source files found.
+[Info  - 2:24:19 PM] (1899) Background analysis(1) root directory: /home/h4ck4u/.vscode/extensions/ms-python.vscode-pylance-2022.7.40/dist
+[Info  - 2:24:19 PM] (1899) Background analysis(1) started
+[Info  - 2:24:19 PM] (1899) No pyproject.toml file found.
+[Info  - 2:24:19 PM] (1899) Setting pythonPath for service "<default>": "/bin/python"
+[Warn  - 2:24:19 PM] (1899) stubPath typings is not a valid directory.
+[Info  - 2:24:20 PM] (1899) Assuming Python version 3.10
+[Info  - 2:24:20 PM] (1899) Assuming Python platform Linux
+[Info  - 2:24:20 PM] (1899) Searching for source files
+[Info  - 2:24:20 PM] (1899) No source files found.
+[Info  - 2:24:22 PM] (1899) No pyproject.toml file found.
+[Info  - 2:24:22 PM] (1899) Setting pythonPath for service "<default>": "/bin/python"
+[Warn  - 2:24:22 PM] (1899) stubPath typings is not a valid directory.
+[Info  - 2:24:23 PM] (1899) Assuming Python version 3.10
+[Info  - 2:24:23 PM] (1899) Assuming Python platform Linux
+[Info  - 2:24:23 PM] (1899) Searching for source files
+[Info  - 2:24:23 PM] (1899) No source files found.
