@@ -1,0 +1,1 @@
+[2022-08-07 09:34:01.898] [renderer1] [error] [xabikos.JavaScriptSnippets]: Unknown language in `contributes.JavaScriptSnippets.language`. Provided value: vue

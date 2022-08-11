@@ -1,0 +1,17 @@
+[2022-08-07 07:24:14.804] [sharedprocess] [info] Starting worker process with pid 4898 (type: fileWatcher, window: 1).
+[2022-08-07 07:38:58.946] [sharedprocess] [info] Getting Manifest... abusaidm.html-snippets
+[2022-08-07 07:38:58.986] [sharedprocess] [info] Installing extension: abusaidm.html-snippets
+[2022-08-07 07:39:01.144] [sharedprocess] [info] Downloaded extension: abusaidm.html-snippets /home/h4ck4u/.config/Code/CachedExtensionVSIXs/abusaidm.html-snippets-0.2.1
+[2022-08-07 07:39:01.208] [sharedprocess] [info] Extracted extension to /home/h4ck4u/.vscode/extensions/.ef36c0f3-b4a8-494f-9d8a-6998e959fc18: abusaidm.html-snippets
+[2022-08-07 07:39:01.215] [sharedprocess] [info] Renamed to /home/h4ck4u/.vscode/extensions/abusaidm.html-snippets-0.2.1
+[2022-08-07 07:39:01.218] [sharedprocess] [info] Extracting completed. abusaidm.html-snippets
+[2022-08-07 07:39:01.221] [sharedprocess] [info] Extension installed successfully: abusaidm.html-snippets
+[2022-08-07 07:39:12.827] [sharedprocess] [info] Getting Manifest... zignd.html-css-class-completion
+[2022-08-07 07:39:12.862] [sharedprocess] [info] Installing extension: zignd.html-css-class-completion
+[2022-08-07 07:39:15.491] [sharedprocess] [info] Downloaded extension: zignd.html-css-class-completion /home/h4ck4u/.config/Code/CachedExtensionVSIXs/zignd.html-css-class-completion-1.20.0
+[2022-08-07 07:39:17.684] [sharedprocess] [info] Extracted extension to /home/h4ck4u/.vscode/extensions/.41185168-5b30-4fe3-bff0-d726a42f9cda: zignd.html-css-class-completion
+[2022-08-07 07:39:17.698] [sharedprocess] [info] Renamed to /home/h4ck4u/.vscode/extensions/zignd.html-css-class-completion-1.20.0
+[2022-08-07 07:39:17.701] [sharedprocess] [info] Extracting completed. zignd.html-css-class-completion
+[2022-08-07 07:39:17.703] [sharedprocess] [info] Extension installed successfully: zignd.html-css-class-completion
+[2022-08-07 08:54:39.056] [sharedprocess] [info] Worker process with pid 4898 terminated normally (type: fileWatcher, window: 1).
+[2022-08-07 08:54:40.200] [sharedprocess] [info] Starting worker process with pid 13056 (type: fileWatcher, window: 1).

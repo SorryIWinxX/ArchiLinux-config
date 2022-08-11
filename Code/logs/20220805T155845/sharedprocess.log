@@ -1,0 +1,11 @@
+[2022-08-05 15:58:47.976] [sharedprocess] [info] Starting worker process with pid 4081 (type: fileWatcher, window: 1).
+[2022-08-05 15:58:48.376] [sharedprocess] [info] Deleted from disk ms-python.vscode-pylance /home/h4ck4u/.vscode/extensions/ms-python.vscode-pylance-2022.7.40
+[2022-08-05 15:58:51.850] [sharedprocess] [info] Getting Manifest... ms-python.python
+[2022-08-05 15:58:52.309] [sharedprocess] [info] Installing extension: ms-python.python
+[2022-08-05 15:58:55.403] [sharedprocess] [info] Downloaded extension: ms-python.python /home/h4ck4u/.config/Code/CachedExtensionVSIXs/ms-python.python-2022.12.0
+[2022-08-05 15:58:57.254] [sharedprocess] [info] Extracted extension to /home/h4ck4u/.vscode/extensions/.efaa9406-374f-4a90-8898-d70b408a531c: ms-python.python
+[2022-08-05 15:58:57.262] [sharedprocess] [info] Renamed to /home/h4ck4u/.vscode/extensions/ms-python.python-2022.12.0
+[2022-08-05 15:58:57.266] [sharedprocess] [info] Extracting completed. ms-python.python
+[2022-08-05 15:58:57.271] [sharedprocess] [info] Extension installed successfully: ms-python.python
+[2022-08-05 15:59:01.529] [sharedprocess] [info] Worker process with pid 4081 terminated normally (type: fileWatcher, window: 1).
+[2022-08-05 15:59:02.580] [sharedprocess] [info] Starting worker process with pid 4200 (type: fileWatcher, window: 1).
